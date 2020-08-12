@@ -24,3 +24,6 @@ https://ishare.iask.sina.com.cn/f/RifxhJBCmK.html
 
 3. https://www.latexstudio.net/archives/51509.html
 LaTeX 幻灯片模板：easy_slides 
+
+4. https://liam.page/2014/04/22/LaTeX-watermark/
+【LaTeX Tips】利用 TikZ 在 LaTeX 文档中制作水印效果
