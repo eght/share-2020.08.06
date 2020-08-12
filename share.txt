@@ -22,4 +22,5 @@ https://ishare.iask.sina.com.cn/f/RifxhJBCmK.html
 2. https://www.iqiyi.com/w_19s9tbixn9.html
 【考研数学】1987-2019历年考研数学一二三真题解析（1987-2000）
 
-3. 
+3. https://www.latexstudio.net/archives/51509.html
+LaTeX 幻灯片模板：easy_slides 
