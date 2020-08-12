@@ -30,3 +30,20 @@ LaTeX 幻灯片模板：easy_slides
 
 5. http://tug.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf
 The beamer class User Guide for version 3.59.
+
+6. http://blog.sina.com.cn/s/blog_6094305f0102w9k0.html
+[转载]pdfscreen+ppower4和beame
+
+7. http://blog.sina.com.cn/s/blog_6094305f0102vja2.html
+[转载]CTex使用部分：PDFSCREEN幻灯片PRESENTATION模板定制
+
+8. https://www.latexstudio.net/archives/1136.html
+用pdfscreen制作演示文稿 
+
+9. https://www.latexstudio.net/category/tex-report-template.html
+报告模板 
+
+10. https://ctan.org/pkg/pdfscreen
+pdfscreen – Support screen-based document design
+
+11. 
