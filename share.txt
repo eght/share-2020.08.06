@@ -46,4 +46,13 @@ The beamer class User Guide for version 3.59.
 10. https://ctan.org/pkg/pdfscreen
 pdfscreen – Support screen-based document design
 
-11. 
+11. https://www.latexstudio.net/uploads/20200703/ManualNotes315b0703.pdf
+tikz ManualNotes315b0703.pdf
+
+12. https://www.latexstudio.net/archives/51804.html
+TiKZ 学习笔记更新了 - 版本 3.1.5b 发布了 
+
+13. https://texample.net/tikz/examples/area/mathematics/
+Home > TikZ > Examples > Technical area: Mathematics 
+
+14. 
