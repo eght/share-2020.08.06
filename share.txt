@@ -55,4 +55,5 @@ TiKZ 学习笔记更新了 - 版本 3.1.5b 发布了
 13. https://texample.net/tikz/examples/area/mathematics/
 Home > TikZ > Examples > Technical area: Mathematics 
 
-14. 
+14. https://zhuanlan.zhihu.com/p/151086713
+两款符合现代口味的Beamer主题（搞科研必备）
