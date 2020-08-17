@@ -60,3 +60,12 @@ Home > TikZ > Examples > Technical area: Mathematics
 
 15. http://www.berenddeboer.net/tex/LaTeX2ConTeXt.pdf
 LATEX in proper ConTEXt, Berend de Boer
+
+16. Wolfram Mathematica 11.3.0.0
+隐函数画图
+ContourPlot[x^3 + y^3 - 3 x*y == 0, {x, -2, 2}, {y, -2, 2}, 
+ ContourStyle -> {Blue, Thickness[0.01]}, Axes -> True, Frame -> True,
+  PlotLabel -> Style[x^3 + y^3 - 3 x*y == 0, 20], 
+ LabelStyle -> Directive[Bold, Blue], ImageSize -> {500, 500}]
+ 
+17.  
