@@ -85,3 +85,6 @@ https://tex.loria.fr/prod-graph/zoonekynd/metapost/metapost.html
 
 22. MetaFun
 http://context.aanhet.net/svn/manuals/metafun/
+
+23. MetaPost作图宏包mpgraphics的一点经验
+https://lttt.vanabel.cn/2013/08/31/metapost%E4%BD%9C%E5%9B%BE%E5%AE%8F%E5%8C%85mpgraphics%E7%9A%84%E4%B8%80%E7%82%B9%E7%BB%8F%E9%AA%8C.html
