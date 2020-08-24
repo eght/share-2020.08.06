@@ -82,3 +82,6 @@ http://www.pragma-ade.com/overview.htm
 
 21. metapost
 https://tex.loria.fr/prod-graph/zoonekynd/metapost/metapost.html
+
+22. MetaFun
+http://context.aanhet.net/svn/manuals/metafun/
