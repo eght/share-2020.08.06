@@ -76,3 +76,6 @@ http://tex.loria.fr/formats/context/context-getting-started.pdf
 
 19. LaTeX2ConTeXt
 http://www.berenddeboer.net/tex/LaTeX2ConTeXt.pdf
+
+20. pragma-ade.com
+http://www.pragma-ade.com/overview.htm
