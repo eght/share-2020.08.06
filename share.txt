@@ -94,3 +94,6 @@ https://www.latexstudio.net/index/details/index/mid/649.html
 
 25. Source Browser 
 https://source.contextgarden.net/tex/context/modules/mkiv/s-present-steps.mkiv?search=ref#l126
+
+26. MetaFun-s.pdf
+http://www.pragma-ade.com/general/manuals/metafun-s.pdf
