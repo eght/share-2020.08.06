@@ -1,0 +1,9 @@
+version: R2018a
+
+>>linspace(a,b,n) % 将[a,b]区间n等分
+>>round (pi,4) % 圆周率Pi，精确到小数点后第4位数字
+>>round (pi) % 圆周率Pi，精确到小数点后第0位数字，即四舍五入到整数
+>>% 定义函数fun为四舍五入到整数
+fun = 'round'                           ;
+x1 = pi;
+y = feval (fun, x1);
