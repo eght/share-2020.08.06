@@ -1,0 +1,7 @@
+\begin{linenomath*}
+    \begin{eqnarray}
+        f(x) & = & <w,x>+b=\sum_{i=1}^l(\alpha_i-\alpha_i^*)<x_i,x>+b \\
+             & \triangleq & \sum_{i=1}^l(\alpha_i-\alpha_i^*)K(x_i,x)+b \\
+             & \triangleq & \sum_{i=1}^l(\alpha_i-\alpha_i^*)\exp \left(\frac{\|x_i-x_j\|^2}{\sigma^2}\right) +b
+    \end{eqnarray}
+\end{linenomath*}
