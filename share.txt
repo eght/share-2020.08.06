@@ -97,3 +97,6 @@ https://source.contextgarden.net/tex/context/modules/mkiv/s-present-steps.mkiv?s
 
 26. MetaFun-s.pdf
 http://www.pragma-ade.com/general/manuals/metafun-s.pdf
+
+27. tikz
+https://texample.net/tikz/
