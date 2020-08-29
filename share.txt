@@ -100,3 +100,9 @@ http://www.pragma-ade.com/general/manuals/metafun-s.pdf
 
 27. tikz
 https://texample.net/tikz/
+
+28. tikz
+https://texwelt.de/themen/tikz/
+
+29. tikz
+https://texnique.fr/osqa/
