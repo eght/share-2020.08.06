@@ -106,3 +106,6 @@ https://texwelt.de/themen/tikz/
 
 29. tikz
 https://texnique.fr/osqa/
+
+30. Use Opacity to See Function
+https://www.wolfram.com/language/11/volume-visualization/use-opacity-to-see-function.html?product=mathematica
