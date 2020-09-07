@@ -109,3 +109,6 @@ https://texnique.fr/osqa/
 
 30. Use Opacity to See Function
 https://www.wolfram.com/language/11/volume-visualization/use-opacity-to-see-function.html?product=mathematica
+
+31. Hypertext Help with LaTeX
+https://www.giss.nasa.gov/tools/latex/ltx-310.html
