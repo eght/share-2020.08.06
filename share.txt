@@ -133,3 +133,6 @@ https://www.giss.nasa.gov/tools/latex/ltx-310.html
 3、升级版多媒体教室：电脑主机、智能多媒体中控系统、多媒体智能讲台、实物展示台、投影机、交互式电子白板、功放、音响、无线麦克风。
 4、互动型多媒体教室：交互式纳米智能黑板、多媒体中控系统、多媒体智能讲台、交互智能教学一体机、投屏器、2.4G无线教学话筒、互动显示桌。
 5、智能物联型多媒体教室：多媒体中控、多媒体集控系统、交互式纳米智能黑板、交互智能教学一体机、智能云控主机、多功能传感器、电子班牌、智能讲台、实物展示台、功放音响、吊麦系统、互动课桌椅。
+
+34. https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-2/v/trapezoidal-approximation-of-area-under-curve
+Trapezoidal sums
