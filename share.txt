@@ -136,3 +136,6 @@ https://www.giss.nasa.gov/tools/latex/ltx-310.html
 
 34. https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-2/v/trapezoidal-approximation-of-area-under-curve
 Trapezoidal sums
+
+35. Introducing the new Microsoft Edge
+https://www.microsoft.com/en-us/edge?form=MY01I0&OCID=MY01I0
