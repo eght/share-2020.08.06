@@ -176,3 +176,6 @@ IPAD为什么无法同时用这三个东西？一是软件无法装上去。。�
 
 39. 1.1 微课创始人-胡铁生：微课现状及发展趋势
 http://peixun.cnweike.cn/course/lesson/view/id/223
+
+40. FastStone Capture 支持录屏时局部200%、300%、400%动态缩放，亲测好用
+https://www.zhihu.com/question/405578680
