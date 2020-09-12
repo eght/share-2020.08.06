@@ -30,3 +30,8 @@ normpdf - Normal probability density function
     y = normpdf(x)
     y = normpdf(x,mu)
     y = normpdf(x,mu,sigma)
+
+1. https://www.mathworks.com/
+MATLAB for Artificial Intelligence
+
+Machine Learning, Deep Learning, Data Science
