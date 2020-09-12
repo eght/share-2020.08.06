@@ -191,3 +191,6 @@ https://blog.csdn.net/l_201607/article/details/80479963
 
 当时就好奇，这种动态图是怎么做出来的，自己也好想要。
 GiFCam 是一个操作非常简单的屏幕录制软件，录制的效果非常清晰，主要适合制作GIF图片，软件体积小，占用资源少，快捷方便，简单易上手。
+
+44. SmoothDraw
+http://www.smoothdraw.com/home
