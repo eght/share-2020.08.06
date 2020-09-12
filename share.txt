@@ -173,3 +173,6 @@ https://www.zhihu.com/question/20442473
 3.screen capture software from Camtasia Studio，录屏软件，对电脑配置要求较高。 
 
 IPAD为什么无法同时用这三个东西？一是软件无法装上去。。硬件当然也无法装。二是即使可以，IPAD应该拖不动那个视频录制软件。不过，如果用IPAD，你可以用Educreations，这一个软件代替这三者当然，功能简化多了。
+
+39. 1.1 微课创始人-胡铁生：微课现状及发展趋势
+http://peixun.cnweike.cn/course/lesson/view/id/223
