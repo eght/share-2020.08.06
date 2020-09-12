@@ -194,3 +194,7 @@ GiFCam 是一个操作非常简单的屏幕录制软件，录制的效果非常�
 
 44. SmoothDraw
 http://www.smoothdraw.com/home
+
+45. https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new
+College Calculus AB
+Unit: Differentiation: definition and basic derivative rules
