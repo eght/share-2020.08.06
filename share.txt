@@ -179,3 +179,15 @@ http://peixun.cnweike.cn/course/lesson/view/id/223
 
 40. FastStone Capture 支持录屏时局部200%、300%、400%动态缩放，亲测好用
 https://www.zhihu.com/question/405578680
+
+41. FastStone Capture录屏，随时放大画面
+https://haokan.baidu.com/v?pd=wisenatural&vid=7827711204346980482
+
+42. 程序员必备神器（FastStoneCapture）
+https://blog.csdn.net/L_201607/article/details/80226732
+
+43. 程序员必备神器（GifCam）
+https://blog.csdn.net/l_201607/article/details/80479963
+
+当时就好奇，这种动态图是怎么做出来的，自己也好想要。
+GiFCam 是一个操作非常简单的屏幕录制软件，录制的效果非常清晰，主要适合制作GIF图片，软件体积小，占用资源少，快捷方便，简单易上手。
