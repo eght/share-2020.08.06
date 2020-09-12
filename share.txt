@@ -163,3 +163,13 @@ smoothdraw
 
 37. 伯索云学堂-教师版
 http://www.plaso.cn/
+
+38. 可汗学院的视频制作过程中用到了哪些软件？
+https://www.zhihu.com/question/20442473
+
+他用的工具是： Drawings are now made with a Wacom tablet and the free natural drawing application SmoothDraw 3, and recorded with screen capture software from Camtasia Studio.总结起来三样主要的工具：
+1. Wacom tablet，绘图板，我买了个500元左右的CTL460。
+2. SmoothDraw 3，画图软件，有免费的汉化版。
+3.screen capture software from Camtasia Studio，录屏软件，对电脑配置要求较高。 
+
+IPAD为什么无法同时用这三个东西？一是软件无法装上去。。硬件当然也无法装。二是即使可以，IPAD应该拖不动那个视频录制软件。不过，如果用IPAD，你可以用Educreations，这一个软件代替这三者当然，功能简化多了。
