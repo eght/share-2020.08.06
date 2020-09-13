@@ -35,3 +35,11 @@ normpdf - Normal probability density function
 MATLAB for Artificial Intelligence
 
 Machine Learning, Deep Learning, Data Science
+
+2. https://www.mathworks.com/help/
+https://www.mathworks.com/help/
+
+3. 
+>> help function name
+>> doc function name
+>> edit function name
