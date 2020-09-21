@@ -207,3 +207,6 @@ This generates a 137 page document.
 
 context --global s-math-repertoire.mkiv --once
 which generates a 2068(!) page document showing how each symbol looks in different fonts. 
+
+47. C:\texlive\2020\texmf-dist\doc\latex\comprehensive\symbols-a4.pdf
+\nequiv
