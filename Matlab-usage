@@ -120,3 +120,5 @@ pdist - Pairwise distance between pairs of observations
  normcdf - Normal cumulative distribution function 
 
  normpdf - Normal probability density function 
+
+ norm - Vector and matrix norms 
