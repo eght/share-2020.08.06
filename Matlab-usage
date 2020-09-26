@@ -114,3 +114,5 @@ Simple and intuitive numerical integration based on trapezoidal rule.
  strcmp - Compare strings 
 
  varargin - Variable-length input argument list 
+
+pdist - Pairwise distance between pairs of observations
