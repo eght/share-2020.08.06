@@ -108,3 +108,5 @@ Simple and intuitive numerical integration based on trapezoidal rule.
  ceil - Round toward positive infinity 
 
  find - Find indices and values of nonzero elements 
+
+ strcmpi - Compare strings (case insensitive) 
