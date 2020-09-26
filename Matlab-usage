@@ -116,3 +116,5 @@ Simple and intuitive numerical integration based on trapezoidal rule.
  varargin - Variable-length input argument list 
 
 pdist - Pairwise distance between pairs of observations
+
+ normcdf - Normal cumulative distribution function 
