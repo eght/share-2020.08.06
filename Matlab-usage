@@ -101,3 +101,6 @@ D-Optimal Designs
  randperm - Random permutation of integers 
   
  reshape - Reshape array 
+
+ Trapezoidal Integration
+Simple and intuitive numerical integration based on trapezoidal rule. 
