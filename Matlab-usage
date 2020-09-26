@@ -87,3 +87,6 @@ D-Optimal Designs
 
  candexch - D-optimal design from candidate set using row exchanges 
  candgen - Candidate set generation 
+
+ triu - Upper triangular part of matrix 
+ triu - Return upper triangular part of symbolic matrix 
