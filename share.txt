@@ -101,10 +101,10 @@ http://www.pragma-ade.com/general/manuals/metafun-s.pdf
 27. tikz
 https://texample.net/tikz/
 
-28. tikz
+28. tikz, German论坛, 德语TEX
 https://texwelt.de/themen/tikz/
 
-29. tikz
+29. tikz， 法语TEX， Frence论坛，
 https://texnique.fr/osqa/
 
 30. Use Opacity to See Function
