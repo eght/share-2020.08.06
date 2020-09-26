@@ -97,3 +97,7 @@ D-Optimal Designs
 
  rank - Rank of matrix 
  rank - Find rank of symbolic matrix 
+
+ randperm - Random permutation of integers 
+  
+ reshape - Reshape array 
