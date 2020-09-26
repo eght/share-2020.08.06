@@ -94,3 +94,6 @@ D-Optimal Designs
  cumsum - Cumulative sum 
  cumsum - Symbolic cumulative sum 
  cumsum of a matrix
+
+ rank - Rank of matrix 
+ rank - Find rank of symbolic matrix 
