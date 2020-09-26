@@ -90,3 +90,7 @@ D-Optimal Designs
 
  triu - Upper triangular part of matrix 
  triu - Return upper triangular part of symbolic matrix 
+
+ cumsum - Cumulative sum 
+ cumsum - Symbolic cumulative sum 
+ cumsum of a matrix
