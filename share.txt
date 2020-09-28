@@ -210,3 +210,21 @@ which generates a 2068(!) page document showing how each symbol looks in differe
 
 47. C:\texlive\2020\texmf-dist\doc\latex\comprehensive\symbols-a4.pdf
 \nequiv
+
+https://baijiahao.baidu.com/s?id=1618976417852692486&wfr=spider&for=pc
+函数对称性的探究
+
+函数对称性定理
+
+http://www.docin.com/p-2028813945.html
+	高一数学《函数的对称性》知识点总结
+
+
+函数的对称性定理
+https://zhidao.baidu.com/question/371168998.html?qbl=relate_question_1&word=%C9%E8%BA%AF%CA%FD%B5%C4%CD%BC%D0%CE%D3%EBx%3Da%2Cy%3Db%BE%F9%B6%D4%B3%C6%2C%C7%F3%D6%A4%B8%C3%BA%AF%CA%FD%CA%C7%D6%DC%C6%DA%BA%AF%CA%FD
+
+
+为什么y=f(x-a)与y=f(b-x)关于x=a+b/2对称
+
+https://zhidao.baidu.com/question/21181063.html
+设函数y=f(x),x∈（—∞，＋∞）的图形关于x=a,x=b均对称，（a＜b），求证y=f(x)是周期函数。
