@@ -228,3 +228,6 @@ https://zhidao.baidu.com/question/371168998.html?qbl=relate_question_1&word=%C9%
 
 https://zhidao.baidu.com/question/21181063.html
 设函数y=f(x),x∈（—∞，＋∞）的图形关于x=a,x=b均对称，（a＜b），求证y=f(x)是周期函数。
+
+1. https://wiki.contextgarden.net/SlideWithSteps
+SlideWithSteps
