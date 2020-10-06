@@ -122,3 +122,17 @@ pdist - Pairwise distance between pairs of observations
  normpdf - Normal probability density function 
 
  norm - Vector and matrix norms 
+
+sum - Sum of array elements
+
+Normalize data
+
+X = (X - repmat(mX, npoints, 1))./repmat(sS,npoints, 1);
+
+Calculate distances D between points
+for k = 1:npoints-1
+  ll = ll(end) + (1:npoints -k);
+  D(ll,:) = repmat(X(k,:), npoints-k, 1) - X(k+1:npoints, :); % differences between points
+end
+
+flag = min(sum(abs(D), 2)) ~= 0;
