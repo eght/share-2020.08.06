@@ -138,3 +138,5 @@ end
 flag = min(sum(abs(D), 2)) ~= 0;
 
 mfilename - File name of currently running code
+
+p = mfilename('fullpath') returns the full path and name of the file in which the call occurs, not including the filename extension.
