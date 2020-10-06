@@ -136,3 +136,5 @@ for k = 1:npoints-1
 end
 
 flag = min(sum(abs(D), 2)) ~= 0;
+
+mfilename - File name of currently running code
