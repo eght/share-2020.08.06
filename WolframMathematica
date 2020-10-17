@@ -1,1 +1,3 @@
 Plot[{-2 x/Pi, (Cos[2 x])^4}, {x, -1.6, 0}]
+
+Solve[-2 x/Pi - (Cos[2 x])^4 == 0, x, Reals]
