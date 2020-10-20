@@ -235,3 +235,7 @@ SlideWithSteps
 外语时空
 http://www.langsky.com/
 http://www.russky.net/
+
+Babytype
+https://www.dosgames.com/game/babytype/
+babytype.zip - 129k - Run BABYTYPE.EXE to play 
