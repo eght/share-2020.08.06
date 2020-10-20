@@ -349,3 +349,8 @@ Spark：它是用来弥补基于MapReduce处理数据速度上的缺点。
 
 作者：数据控
 链接：https://www.zhihu.com/question/38038454/answer/1474152502
+
+from: 司守奎《数学建模算法与应用》 第二版
+title: 一份简短又全面的数学建模技能图谱：常用模型&算法总结
+website: https://blog.csdn.net/qq_29831163/article/details/89788999
+
