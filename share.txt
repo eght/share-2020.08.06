@@ -354,3 +354,4 @@ from: 司守奎《数学建模算法与应用》 第二版
 title: 一份简短又全面的数学建模技能图谱：常用模型&算法总结
 website: https://blog.csdn.net/qq_29831163/article/details/89788999
 
+http://www.mittag-leffler.se/langa-program/knots-strings-symplectic-geometry-and-dualities/files
