@@ -145,3 +145,5 @@ fileparts - Get parts of file name
 [filepath,name,ext] = fileparts(filename) returns the path name, file name, and extension for the specified file. 
 
 n = numel(A) returns the number of elements, n, in array A, equivalent to prod(size(A)).
+
+erf(x) returns the Error Function evaluated for each element of x.
