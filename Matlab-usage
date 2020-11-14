@@ -150,3 +150,6 @@ erf(x) returns the Error Function evaluated for each element of x.
 
 C = {}
 You also can use the {} operator to create an empty 0-by-0 cell array.
+
+emptyCell = cell(3,2)
+emptyCell is a 3-by-2 cell array, where each cell contains an empty array, [].
