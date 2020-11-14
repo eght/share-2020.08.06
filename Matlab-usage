@@ -153,3 +153,20 @@ You also can use the {} operator to create an empty 0-by-0 cell array.
 
 emptyCell = cell(3,2)
 emptyCell is a 3-by-2 cell array, where each cell contains an empty array, [].
+
+%%%%%%%%%%%%%%%%%%%%
+what does {:} mean?
+https://www.mathworks.com/support/search.html/answers/10269-what-does-mean.html?fq=asset_type_name:answer%20category:support/matrix-in380&page=1
+
+When used alone, it means to display all contents of a cell array.
+C = {magic(3);'how';rand(1,2);'pizzaz';magic(8)};
+C{:}
+
+When passed to a function, it will form a comma-separated list. For example:
+C = {magic(3);magic(2)}
+isequal(C{:})  % This is the same as isequal(C{1},C{2})
+
+Now change it to:
+C = {magic(3);magic(3)}
+isequal(C{:})  % This is the same as isequal(C{1},C{2})
+%%%%%%%%%%%%%%%%%%%%
