@@ -147,3 +147,6 @@ fileparts - Get parts of file name
 n = numel(A) returns the number of elements, n, in array A, equivalent to prod(size(A)).
 
 erf(x) returns the Error Function evaluated for each element of x.
+
+C = {}
+You also can use the {} operator to create an empty 0-by-0 cell array.
