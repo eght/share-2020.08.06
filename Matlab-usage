@@ -170,3 +170,29 @@ Now change it to:
 C = {magic(3);magic(3)}
 isequal(C{:})  % This is the same as isequal(C{1},C{2})
 %%%%%%%%%%%%%%%%%%%%
+
+>> a=ones(2,3)
+
+a =
+
+     1     1     1
+     1     1     1
+
+>> sum(a)
+
+ans =
+
+     2     2     2
+
+>> sum(a,2)
+
+ans =
+
+     3
+     3
+
+>> sum(a,1)
+
+ans =
+
+     2     2     2
