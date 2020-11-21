@@ -362,3 +362,7 @@ http://jsfz.dhu.edu.cn/af/25/c9657a241445/page.htm
 
 https://dhudisk.dhu.edu.cn:443/#/link/AB9AAAC79848B6522B8CEA377CC696DB
 有效期限截止：2025-6-21
+
+Turbo C++ or C for Windows 7, 8, 8.1 and 10 32/64-bit Full Screen Free Download
+1. https://archive.codeplex.com/?p=turboc
+2. https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/
