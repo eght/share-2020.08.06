@@ -219,3 +219,5 @@ ans =
      6
      7
      2
+
+ mxGetN (C) - Number of columns in mxArray 
