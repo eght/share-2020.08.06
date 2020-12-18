@@ -366,3 +366,5 @@ https://dhudisk.dhu.edu.cn:443/#/link/AB9AAAC79848B6522B8CEA377CC696DB
 Turbo C++ or C for Windows 7, 8, 8.1 and 10 32/64-bit Full Screen Free Download
 1. https://archive.codeplex.com/?p=turboc
 2. https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/
+
+https://sachachua.com/blog/2015/06/using-your-own-emacs-lisp-functions-in-org-mode-table-calculations-easier-dosage-totals/
