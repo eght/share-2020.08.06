@@ -384,3 +384,6 @@ LaTeX 之 \label 的运用
 打个比方，你在墙上从上到下挂了5张图片，顺序依次是12345，每张图片下面都有一个空白标签，你可以往上面写东西。然后你在第三张图片下面的标签上写下“这是第五张图片”，就相当于你给了这张图片一个 label ,为 \label{这是第五张图片} 。那么,当你用 \ref{这是第五张图片} 进行引用的时候，出现的不是 5 ,也不是 figure 3，更不是figure 5,而单单是一个 3，如果你需要figure这个说明类型的文字，你需要自己在 \ref 前面敲上figure，即：
 
 This is figure \ref{这是第五张图片}
+
+https://emacsredux.com/blog/2013/04/18/evaluate-emacs-lisp-in-the-minibuffer/
+Evaluate Emacs Lisp in the Minibuffer
