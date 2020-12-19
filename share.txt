@@ -368,3 +368,19 @@ Turbo C++ or C for Windows 7, 8, 8.1 and 10 32/64-bit Full Screen Free Download
 2. https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/
 
 https://sachachua.com/blog/2015/06/using-your-own-emacs-lisp-functions-in-org-mode-table-calculations-easier-dosage-totals/
+Using your own Emacs Lisp functions in Org Mode table calculations: easier dosage totals
+
+https://www.cnblogs.com/loca/p/4264686.html
+LaTeX 之 \label 的运用
+
+前言
+大部分的LaTex教程里面都会提到 \label 的标记功能，而如果入门时就玩耍过WinEdt的同学在工具栏上点击各种环境的时候就会发现\label这个东东是无处不在的。而它最大的功能就是引用。
+\label 和 \ref ，基本的引用功能
+
+在需要引用的时候,\label 和 \ref 是成对出现的, \label{标记}, \ref{标记}
+
+\label后面的标记就像一个特定的身份象征，就像一个人的身份证号码指向这个人一样。
+
+打个比方，你在墙上从上到下挂了5张图片，顺序依次是12345，每张图片下面都有一个空白标签，你可以往上面写东西。然后你在第三张图片下面的标签上写下“这是第五张图片”，就相当于你给了这张图片一个 label ,为 \label{这是第五张图片} 。那么,当你用 \ref{这是第五张图片} 进行引用的时候，出现的不是 5 ,也不是 figure 3，更不是figure 5,而单单是一个 3，如果你需要figure这个说明类型的文字，你需要自己在 \ref 前面敲上figure，即：
+
+This is figure \ref{这是第五张图片}
