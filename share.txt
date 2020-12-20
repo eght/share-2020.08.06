@@ -399,3 +399,6 @@ UKORA news search - RSS
 
 https://www.innoreader.com
 Inoreader Companion
+
+https://mobile.softpedia.com/apk/
+Mobile APK
