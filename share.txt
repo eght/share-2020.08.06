@@ -443,3 +443,93 @@ https://wenku.baidu.com/view/d3a4362c453610661ed9f48c.html
 10高等数学课件(完整版)详细
 https://wenku.baidu.com/view/69c146e8e009581b6bd9eb8c.html
 %%%%%%
+
+http://www.stewartcalculus.com/media/10_home.php
+
+http://www.stewartcalculus.com/media/index_about.php
+
+英文原版教材中，托马斯微积分和James Stewart编的微积分有什么各自的特点？
+两本教材都是传世之作，Thomas版有60多年的历史，Thomas老先生90岁依然奋战在MIT教学第一线，Stewart版据说全球销量最高，占了50%以上的美国市场。但是我们大多不会一口气把两套都买下来，一定只会选择其中一套来买，这就涉及到一个选择的问题。
+希望对这两套教材有所研究和感受的朋友可以分享一下这两本教材的区别，以及对于不同人群来说，应该购买哪本更合适？谢谢！
+
+比如我，非数学专业工科博士，偶尔需要好好重新理解一下微积分的基本知识，偶尔需要查询一下忘记的定理，偶尔需要在写英文论文时参考一下英文中数学的正规表达，偶尔需要用一本经典教材来镇实验室……我应该选择哪一本更好呢。
+
+alphacalculus
+alphacalculus
+為人民服務
+1 人赞同了该回答
+托马斯微分在中国很受推崇，不过看了一下Thomas对极限的讲解，感觉是很失望的，
+似乎作者对极限的理解甚至不如中国人。
+极限的讲解应从数列极限讲起，这样才能理解极限为什么产生、是什么、怎么描述、怎么求等这些基本问题。
+Thomas似乎和大部分教材一样直接描述极限，显然这是最困难的部分，
+让读者直接看极限的描述(delta-epsilon)对深入理解极限会造成很大阻碍。
+
+stewart 对极限的讲解和Thomas是一样的，
+坦白讲，建议大家看国产教材。
+编辑于 2016-10-18
+
+更多回答
+燕南
+燕南
+http://WolframAlpha.com 知识引擎软件研发
+1 人赞同了该回答
+謝邀。比較書的話我一般會去看 Amazon 上的評論： Thomas 、Stewart。兩本書我都只看過目錄，沒有實質性使用經驗，所以無法根據親身體驗給出回答了。我遇到你說的那些需要查資料的情況一般都先在互聯網上查，好多都能在維基百科、math.stackexchange.com、和各大學發佈在網上的課程 handouts 里找到答案。單從目錄看，兩本書都是一千多頁（用來鎮宣紙、墊顯示器功效一樣），章節內容也幾乎一模一樣，Thomas 那本極限和連續性、超越函數有專門的章節，Stewart 那本反函數單開一章講，沒有更大差別了，美譽度似乎 Thomas 略好。 當手冊用私以為兩本都顯「唐僧」了。如果不從事這方面的教學工作，我覺得購買紙質書的意義不大。
+编辑于 2015-06-03
+1
+​添加评论
+​分享
+​收藏
+​感谢
+匿名用户
+匿名用户
+3 人赞同了该回答
+利益相关：之前在托马斯微积分的出版公司就职（Pearson），现在就职于斯图尔特微积分的出版公司（Cengage），对两本书都有些了解。
+
+首先，两本书都非常好。托马斯微积分是昔日老大，斯图尔特微积分现在北美的市场占有率已经超过60%了。
+
+然后，说一下现在有哪些好学校在用斯图尔特：哈佛、耶鲁、芝加哥、宾大、哥大、加州伯克利等等。MIT、斯坦福没有在用，2本都没在用。国内在用的学校大部分是国际合作项目。
+
+最后，来说说清华教授对两本书的评价（不提名字了，因为工作关系和很多老师聊过这两本书）：两本书的难度都不如同济版的高等数学，但是都比同济版好很多，讲述方式都很好，学生能学懂，知道怎么用。如果是自学的话斯图尔特会更好一些，讲得更清楚。两本书他都推荐给学生做参考书，他更喜欢斯图尔特，因为托马斯新版改得不好，还不如老版本了........
+
+两本书高教社都出了影印版，价格差不多，在网店搜索用作者的名字。不用买原版。
+
+下载方式：
+1. 百度云网盘 链接：http://pan.baidu.com/s/1hs97zX6 密码：b77g
+2. 360云盘 链接：https://yunpan.cn/cqMtmWWEPeDJD 密码：8d52
+
+分享《微积分》James Stewart 英文版电子书
+
+说明：  世界上最好的微积分教材，搞程序的，研究的，数学的都应该了解，这个是James.Stewart的Calculus第七版，英文原版，彩色的，值得珍藏。
+(The world' s best calculus textbook, engage in programs, research, mathematics should understand that this is James.Stewart seventh edition of Calculus, English original, colorful and worth treasuring.)
+文件列表：
+(Calculus,.7ed),.James.Stewart.pdf 
+
+https://www.zhihu.com/question/27834147
+
+https://codegolf.stackexchange.com/questions/44680/showcase-of-languages
+
+Showcase of Languages
+
+up vote
+482
+down vote
+favorite
+324
+Notes
+
+This thread is open and unlocked only because the community decided to make an exception. Please do not use this question as evidence that you can ask similar questions here. Please do not create additional showcase questions.
+This is no longer a popularity-contest, nor are snippet lengths limited by the vote tally. If you know this thread from before, please make sure you familiarize yourself with the changes.
+This thread is dedicated to showing off interesting, useful, obscure, and/or unique features your favorite programming languages have to offer. This is neither a challenge nor a competition, but a collaboration effort to showcase as many programming languages as possible as well as possible.
+
+How this works
+
+All answers should include the name of the programming language at the top of the post, prefixed by a #.
+Answers may contain one (and only one) factoid, i.e., a couple of sentences without code that describe the language.
+Aside from the factoid, answers should consist of snippets of code, which can (but don't have to be) programs or functions.
+The snippets do not need to be related. In fact, snippets that are too related may be redundant.
+Since this is not a contest, all programming languages are welcome, whenever they were created.
+Answers that contain more than a handful of code snippets should use a Stack Snippet to collapse everything except the factoid and one of the snippets.
+Whenever possible, there should be only one answer per programming language. This is a community wiki, so feel free to add snippets to any answer, even if you haven't created it yourself. There is a Stack Snippet for compressing posts, which should mitigate the effect of the 30,000 character limit.
+Answers that predate these guidelines should be edited. Please help updating them as needed.
+
+Current answers, sorted alphabetically by language name
