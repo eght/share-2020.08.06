@@ -533,3 +533,13 @@ Whenever possible, there should be only one answer per programming language. Thi
 Answers that predate these guidelines should be edited. Please help updating them as needed.
 
 Current answers, sorted alphabetically by language name
+
+https://www.cnblogs.com/5lovestudy/p/9748663.html
+我把BibTexkey定为“[year]-[auth]-p[firstpage]-[lastpage]“，所有文献不出现重复BibTexkey。然后着手所有文献的批量重命名工作：
+1、在Endnote里面编写一个”Output Style“，在Bibliography下的Templates里面加入”Year-Author-pPages=Link to PDF“（文献类型Journal Article）
+2、把所有带全文的文献用此”Output Style“导出一份文本文件
+3、按顺序完成替换：先把”=internal-pdf://"替换成制表符，再把“/”号替换成制表符
+4、拷贝、粘贴到Excel里面，保留第一列（将来的文件名）和最后一列（原来的pdf文件名），其他删除
+5、按原文件名排序（为了符合文件批量命名软件的需要）
+6、拷贝第一列的内容到文本文件，命名保存
+7、有一个文件批量命名软件，叫“拖把文件更名器”。把你所有要从命名的文件放到一个文件夹中，用这个软件“调用文本文件命名”功能（用的就是第6部中的文本文件），几秒钟内它会帮你全部重命名。（软件很简单，具体使用方法自己看看就明白了，在这不详细介绍）
