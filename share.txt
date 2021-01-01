@@ -543,3 +543,17 @@ https://www.cnblogs.com/5lovestudy/p/9748663.html
 5、按原文件名排序（为了符合文件批量命名软件的需要）
 6、拷贝第一列的内容到文本文件，命名保存
 7、有一个文件批量命名软件，叫“拖把文件更名器”。把你所有要从命名的文件放到一个文件夹中，用这个软件“调用文本文件命名”功能（用的就是第6部中的文本文件），几秒钟内它会帮你全部重命名。（软件很简单，具体使用方法自己看看就明白了，在这不详细介绍）
+
+https://www.zdf.de/nachrichten/zdfspezial/neujahrsansprache-108.html
+ Neujahrsansprache der Bundeskanzlerin
+"Pandemie ist eine Jahrhundertaufgabe"
+ In ihrer Neujahrsansprache dankt Kanzlerin Merkel den Deutschen für ihre Geduld, sich auf diesen historischen Kraftakt der Virus-Bekämpfung einzulassen. Die schwere Zeit für unser Land sei noch nicht vorbei. Mit den ersten Geimpften habe aber jetzt die ...
+
+7 min
+31.12.2020
+31.12.2020
+UT - DGS
+
+Video verfügbar bis 31.12.2021
+
+
