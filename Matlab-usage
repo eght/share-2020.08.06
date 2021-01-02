@@ -221,3 +221,16 @@ ans =
      2
 
  mxGetN (C) - Number of columns in mxArray 
+
+% https://www.mathworks.com/support/search.html/answers/222584-how-to-avoid-powers-of-10-i-e-1-0e-03-in-answers.html?fq=asset_type_name:answer%20category:support/annotatio1127&page=1
+% Wagih Abu Rowin on 19 Jun 2018
+%    5    Link
+% Use
+% format shortG
+>> 1.0e+03
+ans =
+      1000
+%  1 Comment
+% Josh La Palma
+% Josh La Palma on 20 Oct 2018
+% Far out, thank you my man! It's seriously irritating enough then I tend to use symbolab instead of matlab
