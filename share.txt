@@ -562,3 +562,16 @@ Davidjoe84056172
 2个月前
 
 我看过倪海厦先生的地纪、人纪，花钱买的。虽然中医是我们的国粹，但没有一定程度的阅历和经验，中医的实践是不容易的。倪先生涉猎广泛，这样的人的确不多。但也是一家之言。后来看刘渡舟、胡希恕先生，也是一家之言，但内涵各有不同。后来看范中林老先生的医案选，又有认识。只有学习了、理解了、实践了的东西，才算真正意义上有用的。每想起胡希恕先生的行为，那才是真正的对中医深耕多年以后的认识。不宜推崇某一人，于人于己都不对。大家看得懂叶桂的医案吗？他这么厉害的人也拜了18位师傅。学习中医要多学习多看看，勤实践。如此而已……
+
+   The predecessor RUNOFF
+       roff's ancestor RUNOFF was written in the MAD language by Jerry
+       Saltzer to prepare his Ph.D. thesis using the Compatible Time
+       Sharing System (CTSS), a project of the Massachusetts Institute
+       of Technology (MIT).  The program is generally referred to in
+       full capitals, both to distinguish it from its many descendants,
+       and because bits were expensive in those days; five- and six-bit
+       character encodings were still in widespread usage, and mixed-
+       case alphabetics seen as a luxury.  RUNOFF introduced a syntax of
+       inlining formatting directives amid document text, by beginning a
+       line with a period (an unlikely occurrence in human-readable
+       material) followed by a “control word”.  
