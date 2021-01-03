@@ -235,6 +235,7 @@ ans =
 % Josh La Palma on 20 Oct 2018
 % Far out, thank you my man! It's seriously irritating enough then I tend to use symbolab instead of matlab
 
+%%%% 指定矩阵的行和列
 % 产生10*10的全0矩阵：
 zeros(10,10)
 
@@ -249,3 +250,6 @@ rand(10,10)
 
 % 产生10*10的均值为0，方差为1的标准正态分布随机矩阵：
 randn(10,10)
+
+%%%% MATLAB 更改 Simulink 会话的编码
+slCharacterEncoding('US-ASCII')
