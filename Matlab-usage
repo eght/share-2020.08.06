@@ -253,3 +253,5 @@ randn(10,10)
 
 %%%% MATLAB 更改 Simulink 会话的编码
 slCharacterEncoding('US-ASCII')
+%% encoding - 要设置的字符编码
+% 'US-ASCII' | 'Windows-1252' | 'ISO-8859-1' | 'Shift_JIS' | 'UTF-8'
