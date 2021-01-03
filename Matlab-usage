@@ -234,3 +234,18 @@ ans =
 % Josh La Palma
 % Josh La Palma on 20 Oct 2018
 % Far out, thank you my man! It's seriously irritating enough then I tend to use symbolab instead of matlab
+
+% 产生10*10的全0矩阵：
+zeros(10,10)
+
+% 产生10*10的全1矩阵：
+ones(10,10)
+
+% 产生10*10的单位矩阵:
+eye(10,10)
+
+% 产生10*10的0～1间均匀分布的随机矩阵。
+rand(10,10)
+
+% 产生10*10的均值为0，方差为1的标准正态分布随机矩阵：
+randn(10,10)
