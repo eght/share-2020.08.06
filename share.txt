@@ -602,3 +602,19 @@ https://www.jb51.net/softs/167678.html
 
 https://www.ecdc.europa.eu/en/covid-19-pandemic
 European Centre for Disease Prevention and Control 
+
+快捷键	命令	说明
+C-h ? 	  	关于帮助系统的帮助，可以通过SPC和DEL键滚动，通过ESC退出
+C-h t 	M-x help-with-tutorial 	进入 《Emacs 快速指南》
+C-h r 	M-x info-emacs-manual 	Emacs使用手册
+C-h i 	M-x info 	《Emacs说明》
+C-h a 	M-x apropos-command 	搜索命令》
+C-h v 	M-x describe-variable 	查看变量说明》
+C-h f 	M-x describe-function 	查看函数说明》
+C-h m 	M-x describe-mode 	查看当前mode的相关文档，包含mode中的命令、快捷键等》
+C-h k KEYS 	M-x describe-key KEYS 	查看快捷键对应的命令及其简要说明，比如C-h k C-x C-c，会告诉你C-x C-c是做什么的》
+C-h c KEYS 	M-x describe-key-briefly 	查看键绑定说明》
+C-h w 	M-x where-is 	查看某个命令对应的快捷键》
+C-h b 	M-x describe-bindings 	查看当前buffer所有的快捷键列表》
+KEYS C-h 	  	查看当前buffer中以某个快捷键序列开头的快捷键列表，比如C-c C-h》
+  	M-x apropos 	查看匹配某个关键词的任何东西，如函数，变量，命令，模式等》
