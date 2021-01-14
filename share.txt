@@ -624,3 +624,6 @@ http://www.cn-dos.net/newdos/dosdown.htm
 https://classicreload.com/win3x-windows-31.html
 https://winworldpc.com/product/windows-3/31
 Windows 3.x was the first to gain significant development and commercial traction. It combined the 8086, 286, and 386 modes of Windows 2 in to one package. It replaced the MSDOS Executive with a Program Manager and File Manager similar to those in OS/2 1.x. Much of its success was spurred by the availability and success of Microsoft Office. Although Microsoft would have had you believe otherwise, Windows 3.x was the direct foundation for Chicago/Windows 95.
+
+http://liveusb-openbsd.sourceforge.net/
+LiveUSB with OpenBSD - Bootable OpenBSD for your USB stick 
