@@ -618,3 +618,5 @@ C-h w 	M-x where-is 	查看某个命令对应的快捷键》
 C-h b 	M-x describe-bindings 	查看当前buffer所有的快捷键列表》
 KEYS C-h 	  	查看当前buffer中以某个快捷键序列开头的快捷键列表，比如C-c C-h》
   	M-x apropos 	查看匹配某个关键词的任何东西，如函数，变量，命令，模式等》
+
+http://www.cn-dos.net/newdos/dosdown.htm
