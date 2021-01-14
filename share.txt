@@ -627,3 +627,8 @@ Windows 3.x was the first to gain significant development and commercial tractio
 
 http://liveusb-openbsd.sourceforge.net/
 LiveUSB with OpenBSD - Bootable OpenBSD for your USB stick 
+
+
+Win32 Disk Imager
+A Windows tool for writing images to USB sticks or SD/CF cards
+Brought to you by: gruemaster, tuxinator2009
