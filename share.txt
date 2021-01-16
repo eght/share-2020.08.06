@@ -633,6 +633,7 @@ Win32 Disk Imager
 A Windows tool for writing images to USB sticks or SD/CF cards
 Brought to you by: gruemaster, tuxinator2009
 
+http://www.xfdown.com/soft/13464.html
 maxdos usb版 v9.3 官方增强版
 maxdos u盘版下载
 maxdos usb版
