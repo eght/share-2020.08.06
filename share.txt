@@ -632,3 +632,15 @@ LiveUSB with OpenBSD - Bootable OpenBSD for your USB stick
 Win32 Disk Imager
 A Windows tool for writing images to USB sticks or SD/CF cards
 Brought to you by: gruemaster, tuxinator2009
+
+maxdos usb版 v9.3 官方增强版
+maxdos u盘版下载
+maxdos usb版
+
+    软件大小: 11.7M
+    软件类别: 国产软件 / 系统备份
+    软件语言: 简体中文
+    推荐等级: 4星
+    授权方式: 免费软件
+    更新时间: 2019-10-31 11:42
+    运行平台: WinXP, Win7, Win8, Win10
