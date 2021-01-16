@@ -711,3 +711,20 @@ msdos7.10.iso简介：
 5、支持大硬盘和FAT32分区
 6、msdos7.10.iso 启动盘包含有许多附件（例如一些MP3播放器、声卡驱动、汉字系统等）以让用户进行选择性的自动安装
 7、和Windows 9x所带的精简版的DOS相比之下功能也自然更加丰富，性能也更加稳定
+
+https://www.appinn.com/iso-to-usb/
+ncsglz 2012/12/24
+回复
+
+要装B还得量产啊，1分3，又是CD，又是HDD,又是ZIP，妹纸头就晕了，纠结着问你，为啥你的U盘有三个哦，然后…嗯
+0	
+0	
+
+    Izual_Yang 2012/12/24
+    回复
+
+    @ncsglz,
+    再用fbinst做个ud隐藏区
+    然后再用easyboot做个华丽的菜单
+    ud/grub/syslinux/ezb四个菜单互相切换
+    然后…… 
