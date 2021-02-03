@@ -255,3 +255,6 @@ randn(10,10)
 slCharacterEncoding('US-ASCII')
 %% encoding - 要设置的字符编码
 % 'US-ASCII' | 'Windows-1252' | 'ISO-8859-1' | 'Shift_JIS' | 'UTF-8'
+
+https://ww2.mathworks.cn/matlabcentral/answers/311678-how-to-install-surrogate-toolbox-3-0-by-dr-viana?s_tid=answers_rc1-1_p1_BOTH
+How to install Surrogate Toolbox 3.0 by Dr. Viana?
