@@ -744,3 +744,13 @@ https://manjaro.org/downloads/official/xfce/
 
 John Kitchin
 org-ref: citations, cross-references, indexes, glossaries and bibtex utilities for org-mode
+
+Ebib
+A BibTeX database manager for Emacs
+http://joostkremers.github.io/ebib/
+https://github.com/joostkremers/ebib
+
+大学生毕业设计（论文）管理系统
+http://gzu.co.cnki.net/
+2021_03_09
+本科毕业论文
