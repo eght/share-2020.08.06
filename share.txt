@@ -754,3 +754,36 @@ https://github.com/joostkremers/ebib
 http://gzu.co.cnki.net/
 2021_03_09
 本科毕业论文
+
+url: https://github.com/joostkremers/ebib
+file name: ebib-utils.el
+package: Ebib
+
+(defcustom ebib-file-associations '(;; ("pdf" . "qkpdf")
+                                    ;;;; ----
+                                    ("pdf" . "Acrobat")
+                                    ;; version: 1
+                                    ;; state: runnable
+                                    ;; date: 03/15/21 8:50 AM
+                                    ;;("pdf" . "acrobat");;no such file or directory, Acrobat
+                                    ;;;; ----
+                                    ;; ("pdf" . "xpdf")
+                                    ;; version: 2
+                                    ;; state: runnable
+                                    ;; date: 03/12/21 8:03 PM
+                                    ("ps" . "gv"))
+  "List of file associations.
+Lists file extensions together with external programs to handle
+files with those extensions.  If the program string contains a
+literal `%s', it is replaced with the name of the file being
+opened, allowing the use of command line options.  Otherwise, the
+string is treated as an executable, searched for in the variable
+`exec-path'.
+
+When you open a file for which no external program is defined,
+the file is opened in Emacs."
+  :group 'ebib
+  :type '(repeat (cons :tag "File association"
+                       (string :tag "Extension")
+                       (choice (const :tag "Open in Emacs" nil)
+                               (string :tag "Run external command")))))
