@@ -258,3 +258,36 @@ slCharacterEncoding('US-ASCII')
 
 https://ww2.mathworks.cn/matlabcentral/answers/311678-how-to-install-surrogate-toolbox-3-0-by-dr-viana?s_tid=answers_rc1-1_p1_BOTH
 How to install Surrogate Toolbox 3.0 by Dr. Viana?
+
+% How to read the details of a '1×1 struct' Cell Array?
+% Edited: Stephen Cobeldick on 17 Mar 2019
+
+% https://www.mathworks.com/matlabcentral/answers/450473-how-to-read-the-details-of-a-1x1-struct-cell-array
+% Both cell arrays and structure arrays are kinds of container arrays, i.e. they can contain other arrays. In your case you actually have a scalar cell array containing a scalar structure. This is easy to check:
+>> class(L1) % tells us L1 is a cell array
+ans = cell
+>> size(L1)  % tells us L1 is scalar
+ans =
+   1   1 
+
+% Now that we know that L1 is a cell array, the obvious thing to do is to find out what it contains, which we can do easily using basic cell array indexing:
+>> S = L1{1}; % allocate the content of that cell to a variable S.
+>> class(S)   % tells us S is a structure
+ans = struct
+>> size(S)    % tells us S is scalar
+ans =
+   1   1
+% https://www.mathworks.com/help/matlab/matlab_prog/access-data-in-a-cell-array.html
+% Now that we know that scalar cell array L1 contains a scalar structure, it is easy to access the structure's fields or do any other structure operations with it:
+>> C = fieldnames(L1{1}); % the fieldnames of the structure inside the cell array,
+>> C = fieldnames(S); % or equivalently the fieldnames of the structure by itself.
+>> C{:}
+ans = name
+ans = type
+ans = weights
+ans = size
+ans = pad
+ans = stride
+ans = precious
+ans = dilate
+ans = opts
