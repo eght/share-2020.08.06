@@ -1,0 +1,59 @@
+% !TeX program = lualatex
+% !BIB TS-program = biber
+% !TeX encoding = UTF-8
+% !TeX spellcheck = de_DE
+\documentclass[
+    fontsize=12pt,
+    oneside,
+    a4paper,
+    titlepage,
+    numbers=noenddot,
+%   draft,
+]{scrbook}
+\usepackage[ngerman]{babel}
+\usepackage{lmodern} % font <--- may be important
+\usepackage{csquotes}
+
+\usepackage[style=numeric,
+sortcites=true,
+sorting=none,
+defernumbers=true,
+backref=true,
+backend=biber]{biblatex}
+
+\begin{filecontents}{mybib2.bib}
+@online{exodusHomepage,
+    title = {$\varepsilon$xodus},
+    subtitle = {{varepsilon The privacy audit platform for Android applications}},
+    titleaddon = {Startseite},
+%   date = {2020-08-29},
+    urldate = {2020-08-29},
+    language = {english},
+    url = {https://reports.exodus-privacy.eu.org/en}
+}
+@online{exodusHomepageLunar,
+    title = {$\epsilon$xodus},
+    subtitle = {{epsilon The privacy audit platform for Android applications}},
+    titleaddon = {Startseite},
+%   date = {2020-08-29},
+    urldate = {2020-08-29},
+    language = {english},
+    url = {https://reports.exodus-privacy.eu.org/en}
+}
+\end{filecontents} 
+
+\addbibresource{mybib2.bib}
+
+\begin{document}
+\noindent
+Exodus/exodus:\\
+% all commented lines cannot compile or so
+% companies own spelling: εxodus\cite{exodusHomepage}\\
+% companies own spelling: {\epsilon}xodus\cite{exodusHomepageLunar}\\
+% companies own spelling: {\varepsilon}xodus\cite{exodusHomepage}\\
+companies own spelling: $\epsilon$xodus\cite{exodusHomepageLunar} (wrong lunar letter actually)\\
+companies own spelling: $\varepsilon$xodus\cite{exodusHomepage}
+
+\printbibliography
+\end{document}
+%% url: https://tex.stackexchange.com/questions/560592/typesetting-varepsilon-%ce%b5-in-normal-text
