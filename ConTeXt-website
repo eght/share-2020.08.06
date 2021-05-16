@@ -6,3 +6,142 @@ This page is a simple holding-ground for ConTeXt-related tips and tricks.
 My efforts to date have concentrated on stretching the font capabilities within ConTeXt.
 
 https://wiki.contextgarden.net/Command/startcombination
+
+
+
+
+
+
+%%-----------------------------------
+%% 模板 逐步显示， step-by-step， 开始
+%%-----------------------------------
+\page
+\startitemize
+
+\SlideWithSteps{4}{
+
+\item 
+\definedfont[msyhbd*default at 30pt] 
+第11章\ \  曲线积分与曲面积分
+
+
+
+\Step{0} {第五节、 对坐标的曲面积分}
+
+\definedfont[msyhbd*default at 24pt] 
+
+\Step{1} {一、有向曲面及曲面元素的投影}
+
+\Step{2} {二、对坐标的曲面积分的概念与性质}
+
+\Step{3} {三、对坐标的曲面积分的计算法}
+
+\Step{4} {四、两类曲面积分的联系}
+
+%$$\Step{8}{{\partial u \over \partial t}} 
+%\Step{1}{-\Delta u + |u|^{p-1}u} \Step{2}{=} \Step{3}{f} \Step{4}{+{\rm div}(g)} \Step{5}{+|\nabla u|{\Step{6}{^2}}}$$
+
+%\StepBetween[3,5]{\item This line appears only between steps 3 and 5}
+
+%\Step{8}{\item The equation may be parabolic.}
+
+%\StepBefore{4}{\item This line appears only before step 4.}
+
+%\OnlyStep{4}{\item This line appears only at step 4.}
+
+\vfill (第 \the\StepsCounter 页 - 共 \the\NumberOfSteps 页)
+} % end of \SlideWithSteps
+
+\stopitemize
+
+%%-----------------------------------
+%% 模板 逐步显示， step-by-step， 结束
+%%-----------------------------------
+
+
+
+
+
+
+%%-----------------------------------
+%% 模板 逐步显示， step-by-step， 开始
+%%-----------------------------------
+\page
+\startitemize
+
+\SlideWithSteps{4}{
+
+\item 
+\definedfont[msyhbd*default at 30pt] 
+一、有向曲面及曲面元素的投影
+
+\definedfont[msyhbd*default at 24pt] 
+
+\Step{0} {曲面分类：
+\Step{1}{双侧曲面}、
+\Step{2}{单侧曲面}}
+
+
+
+\Step{1} {
+
+
+
+
+}
+
+\Step{2} {二、对坐标的曲面积分的概念与性质}
+
+\Step{3} {三、对坐标的曲面积分的计算法}
+
+\Step{4} {四、两类曲面积分的联系}
+
+
+
+\index{多个图片}
+
+
+
+\placefigure[]{
+曲面分内侧和外侧
+}{\externalfigure[001.png][height=4cm]} % new one
+
+
+
+
+%\definefloat[rightfigure][rightfigures][figure]
+%\setupcaption[rightfigure][location=right]
+%\placerightfigure[]{
+%曲面分内侧和外侧
+%}{\externalfigure[001.png][height=4cm]} % new one
+
+
+
+%\startcolumns[n=2]
+%    \placefigure[none]{}{\externalfigure[001.png][height=4cm]}
+%\column
+%    \placefigure[none]{}{\externalfigure[002.png][height=4cm]}
+%\stopcolumns
+
+
+
+
+%$$\Step{8}{{\partial u \over \partial t}} 
+%\Step{1}{-\Delta u + |u|^{p-1}u} \Step{2}{=} \Step{3}{f} \Step{4}{+{\rm div}(g)} \Step{5}{+|\nabla u|{\Step{6}{^2}}}$$
+
+%\StepBetween[3,5]{\item This line appears only between steps 3 and 5}
+
+%\Step{8}{\item The equation may be parabolic.}
+
+%\StepBefore{4}{\item This line appears only before step 4.}
+
+%\OnlyStep{4}{\item This line appears only at step 4.}
+
+\vfill (第 \the\StepsCounter 页 - 共 \the\NumberOfSteps 页)
+} % end of \SlideWithSteps
+
+\stopitemize
+
+%%-----------------------------------
+%% 模板 逐步显示， step-by-step， 结束
+%%-----------------------------------
