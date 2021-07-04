@@ -790,3 +790,9 @@ the file is opened in Emacs."
 
 
 bat脚本等待10s_使用bat批处理命令清理windows
+
+@Echo off
+Echo Start Microsoft Word, wait for 10 seconds and then start Excel.
+START "" "C:Program Files (x86)\Microsoft Office\Office16\WINWORD.EXE"
+TIMEOUT /T 10
+START "" "C:Program Files (x86)\Microsoft Office\Office16\EXCEL.EXE"
