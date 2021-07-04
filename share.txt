@@ -787,3 +787,6 @@ the file is opened in Emacs."
                        (string :tag "Extension")
                        (choice (const :tag "Open in Emacs" nil)
                                (string :tag "Run external command")))))
+
+
+bat脚本等待10s_使用bat批处理命令清理windows
