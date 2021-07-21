@@ -937,3 +937,7 @@ START "" "C:Program Files (x86)\Microsoft Office\Office16\EXCEL.EXE"
 老梁讲“说话的艺术”
 https://www.ixigua.com/6799248759935992320
 
+Camille Jordan and the Cours d’Analyse.
+http://scihi.org/camille-jordan-cours-danalyse/
+On January 5, 1838, French mathematician Marie Ennemond Camille Jordan was born. Jordan is known both for his foundational work in group theory and for his influential Cours d’analyse.
+
